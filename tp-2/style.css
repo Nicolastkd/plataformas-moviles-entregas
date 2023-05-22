@@ -1,1 +1,42 @@
+/*Fondo en 222*/
 
+body{
+    background:#222;    /*Color de la pagina*/
+    color: rgb(0, 207, 214);
+}
+
+/*Segundo punto*/
+
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+/*3 xdxddx00*/
+
+p{
+    font-family: sans-serif;
+}
+
+a{
+    color: rgb(255, 255, 255);
+}
+
+h1 :hover{ /*El span*/
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}
+a {
+    font-style: italic;
+}
+
+a:not([href]){
+    font-style: italic;
+}
+
+li{
+    background-color:magenta;
+}
